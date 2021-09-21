@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+BEGIN:VEVENT
+SUMMARY:Preparing for UiPath Certified RPA Associate (UiRPA) exam
+DTSTART;VALUE=DATE-TIME:20210901T033000Z
+DTEND;VALUE=DATE-TIME:20210901T073000Z
+DTSTAMP;VALUE=DATE-TIME:20210828T101536Z
+UID:2021-08-28T10:15:36.103280/Bevy
+DESCRIPTION:If you are ready to take the next step in your career by becom
+ ing a UiPath Certified Professional\, you should attend this webinar. Duri
+ ng this FREE webinar\, a UiPath Instructor will lead a review of the exam 
+ objectives and will reinforce key topics you will need to know.\n\nVirtual
+  event URL: https://community.uipath.com/j/dtsaqnxdjspzk/68d2d7ee-56fb-43b
+ 2-968f-ee2ce55713df/
+ORGANIZER;CN=UiPath:MAILTO:no-reply@uipath.com
+PRIORITY:5
+URL:https://community.uipath.com/j/dtsaqnxdjspzk/68d2d7ee-56fb-43b2-968f-e
+ e2ce55713df/
+END:VEVENT
+END:VCALENDAR

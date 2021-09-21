@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+BEGIN:VEVENT
+SUMMARY:Preparation for your UiPath Certified Advanced RPA Developer (UiAR
+ D) certification
+DTSTART;VALUE=DATE-TIME:20210915T033000Z
+DTEND;VALUE=DATE-TIME:20210915T073000Z
+DTSTAMP;VALUE=DATE-TIME:20210828T101537Z
+UID:2021-08-28T10:15:37.100710/Bevy
+DESCRIPTION:If you are ready to take the next step in your career by becom
+ ing a UiPath Certified Professional\, you should attend this webinar. \nDu
+ ring this FREE webinar\, a UiPath Instructor will lead a review of the exa
+ m objectives and will reinforce key topics you will need to know.\n\n\nVir
+ tual event URL: https://community.uipath.com/j/sb8j25c739rcu/47eac373-4c1e
+ -46d6-be90-2af89e2d158e/
+ORGANIZER;CN=UiPath:MAILTO:no-reply@uipath.com
+PRIORITY:5
+URL:https://community.uipath.com/j/sb8j25c739rcu/47eac373-4c1e-46d6-be90-2
+ af89e2d158e/
+END:VEVENT
+END:VCALENDAR
